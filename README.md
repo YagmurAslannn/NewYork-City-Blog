@@ -1,2 +1,2 @@
 # NewYork-City-Blog
-Learning tables in HTML
+Simple Blog Web Page
